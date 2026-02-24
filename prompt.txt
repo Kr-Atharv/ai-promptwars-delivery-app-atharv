@@ -1,0 +1,6 @@
+1 Atharv: Make a simple food app which have home order add item interface and all  in navigation bar and it has 10-12 items and every item can be ordered and all and also it is responsive a big page showing in middle like food advertisement
+2 
+Make a simple food delivery website using only HTML and CSS with a navbar, big heading, food cards, and a clean responsive design.
+
+3
+Add JavaScript to the site to show food items, add new food using a form, and take image from Google
